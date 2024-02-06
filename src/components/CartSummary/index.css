@@ -1,0 +1,34 @@
+.summary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.order-total {
+  font-size: 28px;
+  font-family: 'Roboto';
+  line-height: 0.5;
+}
+
+.amount {
+  color: #d4850e;
+}
+
+.items {
+  font-size: 22px;
+  font-family: 'Roboto';
+  font-style: oblique;
+  line-height: 0.5;
+}
+
+.checkout-btn {
+  height: 30px;
+  width: 90px;
+  background-color: lightblue;
+  border: 1px solid lightpink;
+  border-radius: 5px;
+  color: black;
+  font-size: 12px;
+  font-family: 'Roboto';
+}
